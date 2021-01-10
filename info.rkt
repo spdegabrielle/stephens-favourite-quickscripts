@@ -17,5 +17,5 @@
                "scribble-lib"
                "search-list-box"
                "syntax-color-lib"))
-(define scribblings '(("scribblings/stephens-favourite-quuickscripts.scrbl" ())))
+(define scribblings '(("scribblings/stephens-favourite-quickscripts.scrbl" ())))
 (define build-deps '("at-exp-lib"))
