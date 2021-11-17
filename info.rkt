@@ -3,7 +3,7 @@
 (define pkg-desc "Mostly other peoples scripts")
 (define version "0.0")
 (define pkg-authors '(spdegabrielle))
-(define deps '("data-lib"
+;#(define deps '("data-lib"
                "base"
                "drracket"
                "gui-lib"
@@ -17,5 +17,5 @@
                "scribble-lib"
                "search-list-box"
                "syntax-color-lib"))
-(define scribblings '(("scribblings/stephens-favourite-quickscripts.scrbl" ())))
-(define build-deps '("at-exp-lib"))
+;#(define scribblings '(("scribblings/stephens-favourite-quickscripts.scrbl" ())))
+;#(define build-deps '("at-exp-lib"))
